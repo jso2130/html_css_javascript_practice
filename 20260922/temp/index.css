@@ -1,0 +1,21 @@
+#wrap{
+    width: 800px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#wrap div.coupon_name{
+    font-weight: bold;
+    color: #6fc5be;
+}
+
+#wrap div.coupon_title{
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#wrap div.coupon_area{
+    width: 600px;
+    background-color: #4326c7;
+}

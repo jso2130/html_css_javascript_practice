@@ -1,0 +1,87 @@
+#wrap{
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #6831fd;
+    padding: 70px 30px;
+}
+
+#wrap div.coupon_name{
+    color: #6db6b6;
+    font-weight: bold;
+    font-size: 1.4em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
+
+#wrap div.coupon_title{
+    color: #fff;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+
+
+#wrap div.coupon_area ul{
+    position: relative;
+    width: 500px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 50px auto;
+    border: 1px solid #dadada;
+    display: flex;
+}
+
+#wrap div.coupon_area ul li span{
+    font-weight: bold;
+    font-size: 6em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrap div.coupon_area ul li.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    border-right: 1px solid #dadada;
+    flex: 2;
+    padding: 70px 10px;
+}
+
+
+#wrap div.coupon_area ul li.button{
+    flex: 1;
+}
+
+#wrap div.coupon_area ul li.button img{
+    width: 50px;
+    line-height: ;
+}
+
+#wrap div.coupon_info{
+    color: #bbbbbb;
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrap div.circle_1{
+    width: 50px; height: 50px;
+    border-radius: 25px;
+    background-color: #6831fd;
+    color: #6831fd;
+    position: absolute;
+    top: 330px; left: 190px;
+}
+
+#wrap div.circle_2{
+    width: 50px; height: 50px;
+    border-radius: 25px;
+    background-color: #6831fd;
+    color: #6831fd;
+    position: absolute;
+    top: 330px; left: 680px;
+}
+
+#wrap div.button_img{
+    position: absolute
+    top 0px; left: 700px;
+}
