@@ -1,0 +1,49 @@
+/*
+후손 선택자
+*/
+div p{
+    color: #f00;
+}
+
+/*
+자손 선택자
+*/
+div > p{
+    color: #00f;
+}
+
+/*
+동위 선택자
+*/
+h2 + p {
+    color: #00f;
+}
+
+h2 ~ p{
+    font-weight: bold;
+}
+
+/*
+반응 선택자
+*/
+
+a {
+    text-decoration: none;
+    color: #242424;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    color: #f00;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    border-radius: 5px;
+}
+input:focus{
+    background-color: #38a0ad;
+}

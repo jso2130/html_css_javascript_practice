@@ -1,0 +1,18 @@
+/*
+여백 기본값을 초기화
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+a{
+    text-decoration: none;
+    color: #242424;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}

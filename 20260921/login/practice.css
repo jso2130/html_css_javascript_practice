@@ -1,0 +1,16 @@
+#wrap{
+    width: 800px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#wrap div.language{
+    text-align: right;
+}
+
+#wrap div.language select{
+    border: 1px solid #dadada;
+    border-radius: 3px;
+    padding: 5px 8px;
+}
+
